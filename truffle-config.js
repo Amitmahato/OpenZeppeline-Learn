@@ -48,7 +48,7 @@ module.exports = {
       provider: () =>
         new HDWalletProvider(
           mnemonic,
-          `https://eth-goerli.g.alchemy.com/v2/${alchemyAPIKey}`
+          `wss://eth-goerli.g.alchemy.com/v2/${alchemyAPIKey}`
         ),
       network_id: 5,
       gasPrice: 10e9,
