@@ -1,0 +1,7 @@
+{
+  "name": "openzepplin-learn",
+  "version": "1.0.0",
+  "description": "Follow along from the tutorial on https://docs.openzeppelin.com/learn",
+  "main": "index.js",
+  "license": "MIT"
+}
